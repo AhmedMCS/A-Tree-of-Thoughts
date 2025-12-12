@@ -1,0 +1,3 @@
+calculus_problem = "Find the derivative of f(x) = x^3 - x + 2 at the point where f'(x) = 2"
+algebraic_geometry_problem = "Find the number of points on the Klein Quartic curve over the field F_5^18"
+number_theory_problem = "There are unique constants C, alpha, beta such that the number of solutions to the equation ab + 1 = cde with a, b, c, d, e in N (positive integers) with ab <= x is asymptotic to C * x^alpha * log^beta(x) as x -> infinity. Compute floor(1000 * C)."
